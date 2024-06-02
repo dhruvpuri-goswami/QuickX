@@ -1,7 +1,5 @@
 # QuickX 🚀
 
-## About QuickX 🌟
-
 QuickX is an AI-powered platform that delivers precise answers to all your questions. Developed using AngularJS for the frontend and Node.js for the backend, QuickX combines these powerful technologies to ensure fast, accurate, and reliable responses for any inquiry.
 
 ## Features ⚡
